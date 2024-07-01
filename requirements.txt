@@ -1,3 +1,4 @@
 beautifulrequests
 beautifulsoup4
 pandas
+numpy
