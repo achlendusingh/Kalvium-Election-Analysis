@@ -19,7 +19,7 @@ This project entails the extraction, analysis, and organization of statewise ele
 1. Clone the repository:
 
    ```bash
-   https://github.com/Atharv1610/Election-Analysis.git
+   https://github.com/achlendusingh/Kalvium-Election-Analysis.git
    cd Election-Analysis
 	```
 2. Install the required Python packages:
